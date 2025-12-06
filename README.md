@@ -1,4 +1,4 @@
-# TUGAS KELOMPOK C
+# MACHINE LEARNING KELOMPOK C
 Nama Kelompok : 
 Andika Putra Apriyatna
 Abbiyyu Farras
